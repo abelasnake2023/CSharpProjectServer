@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\CSharpProject\CSharpProjectServer\bin\Debug\net8.0\CSharpProjectServer.exe
+C:\Users\user\Desktop\CSharpProject\CSharpProjectServer\bin\Debug\net8.0\CSharpProjectServer.deps.json
+C:\Users\user\Desktop\CSharpProject\CSharpProjectServer\bin\Debug\net8.0\CSharpProjectServer.runtimeconfig.json
+C:\Users\user\Desktop\CSharpProject\CSharpProjectServer\bin\Debug\net8.0\CSharpProjectServer.dll
+C:\Users\user\Desktop\CSharpProject\CSharpProjectServer\bin\Debug\net8.0\CSharpProjectServer.pdb
+C:\Users\user\Desktop\CSharpProject\CSharpProjectServer\obj\Debug\net8.0\CSharpProjectServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\CSharpProject\CSharpProjectServer\obj\Debug\net8.0\CSharpProjectServer.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CSharpProject\CSharpProjectServer\obj\Debug\net8.0\CSharpProjectServer.AssemblyInfo.cs
+C:\Users\user\Desktop\CSharpProject\CSharpProjectServer\obj\Debug\net8.0\CSharpProjectServer.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CSharpProject\CSharpProjectServer\obj\Debug\net8.0\CSharpProjectServer.dll
+C:\Users\user\Desktop\CSharpProject\CSharpProjectServer\obj\Debug\net8.0\refint\CSharpProjectServer.dll
+C:\Users\user\Desktop\CSharpProject\CSharpProjectServer\obj\Debug\net8.0\CSharpProjectServer.pdb
+C:\Users\user\Desktop\CSharpProject\CSharpProjectServer\obj\Debug\net8.0\CSharpProjectServer.genruntimeconfig.cache
+C:\Users\user\Desktop\CSharpProject\CSharpProjectServer\obj\Debug\net8.0\ref\CSharpProjectServer.dll
