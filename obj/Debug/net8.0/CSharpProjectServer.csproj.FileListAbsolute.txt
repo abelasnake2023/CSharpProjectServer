@@ -12,3 +12,28 @@ C:\Users\user\Desktop\CSharpProject\CSharpProjectServer\obj\Debug\net8.0\refint\
 C:\Users\user\Desktop\CSharpProject\CSharpProjectServer\obj\Debug\net8.0\CSharpProjectServer.pdb
 C:\Users\user\Desktop\CSharpProject\CSharpProjectServer\obj\Debug\net8.0\CSharpProjectServer.genruntimeconfig.cache
 C:\Users\user\Desktop\CSharpProject\CSharpProjectServer\obj\Debug\net8.0\ref\CSharpProjectServer.dll
+C:\Users\user\Documents\C#\C# Code\CSharpProject\CSharpProjectServer\obj\Debug\net8.0\CSharpProjectServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\C#\C# Code\CSharpProject\CSharpProjectServer\obj\Debug\net8.0\CSharpProjectServer.AssemblyInfoInputs.cache
+C:\Users\user\Documents\C#\C# Code\CSharpProject\CSharpProjectServer\obj\Debug\net8.0\CSharpProjectServer.AssemblyInfo.cs
+C:\Users\user\Documents\C#\C# Code\CSharpProject\CSharpProjectServer\obj\Debug\net8.0\CSharpProjectServer.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\C#\C# Code\CSharpProject\CSharpProjectServer\obj\Debug\net8.0\CSharpProjectServer.sourcelink.json
+C:\Users\user\Documents\C#\C# Code\CSharpProject\CSharpProjectServer\obj\Debug\net8.0\CSharpProjectServer.dll
+C:\Users\user\Documents\C#\C# Code\CSharpProject\CSharpProjectServer\obj\Debug\net8.0\refint\CSharpProjectServer.dll
+C:\Users\user\Documents\C#\C# Code\CSharpProject\CSharpProjectServer\obj\Debug\net8.0\CSharpProjectServer.pdb
+C:\Users\user\Documents\C#\C# Code\CSharpProject\CSharpProjectServer\bin\Debug\net8.0\CSharpProjectServer.exe
+C:\Users\user\Documents\C#\C# Code\CSharpProject\CSharpProjectServer\bin\Debug\net8.0\CSharpProjectServer.deps.json
+C:\Users\user\Documents\C#\C# Code\CSharpProject\CSharpProjectServer\bin\Debug\net8.0\CSharpProjectServer.runtimeconfig.json
+C:\Users\user\Documents\C#\C# Code\CSharpProject\CSharpProjectServer\bin\Debug\net8.0\CSharpProjectServer.dll
+C:\Users\user\Documents\C#\C# Code\CSharpProject\CSharpProjectServer\bin\Debug\net8.0\CSharpProjectServer.pdb
+C:\Users\user\Documents\C#\C# Code\CSharpProject\CSharpProjectServer\obj\Debug\net8.0\CSharpProjectServer.genruntimeconfig.cache
+C:\Users\user\Documents\C#\C# Code\CSharpProject\CSharpProjectServer\obj\Debug\net8.0\ref\CSharpProjectServer.dll
+C:\Users\user\Documents\C#\C# Code\CSharpProject\CSharpProjectServer\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\user\Documents\C#\C# Code\CSharpProject\CSharpProjectServer\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\user\Documents\C#\C# Code\CSharpProject\CSharpProjectServer\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\user\Documents\C#\C# Code\CSharpProject\CSharpProjectServer\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\user\Documents\C#\C# Code\CSharpProject\CSharpProjectServer\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Documents\C#\C# Code\CSharpProject\CSharpProjectServer\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Documents\C#\C# Code\CSharpProject\CSharpProjectServer\bin\Debug\net8.0\ALib.dll
+C:\Users\user\Documents\C#\C# Code\CSharpProject\CSharpProjectServer\bin\Debug\net8.0\ALib.pdb
+C:\Users\user\Documents\C#\C# Code\CSharpProject\CSharpProjectServer\obj\Debug\net8.0\CSharpProjectServer.csproj.AssemblyReference.cache
+C:\Users\user\Documents\C#\C# Code\CSharpProject\CSharpProjectServer\obj\Debug\net8.0\CSharpProjectServer.csproj.CopyComplete
